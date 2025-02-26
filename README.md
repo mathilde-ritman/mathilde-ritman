@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 I'm Mathilde Ritman, a climate physicist and PhD Reseracher at the University of Oxford. 
 
-I'm interested in:
+I love all things weather and climate. Currently, I'm most interested in research related to:
 
 - Clouds and radiation
 - Climate extremes
 - Local weather and climate phenomena
 
-I use:
+I work with large and unwieldy datasets and statistical and data science tools, namely:
 - Satellite data and remote sensing
 - High-resolution climate models
 - Machine and deep learning
