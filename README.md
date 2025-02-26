@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mathilde Ritman, a climate physicist and PhD Reseracher at the University of Oxford. I work on:
+I'm Mathilde Ritman, a climate physicist and PhD Reseracher at the University of Oxford. 
 
-- High-resolution global climate models
+I'm interested in:
+
 - Clouds and radiation
 - Climate extremes
-- Machine and deep learning.
+- Local weather and climate phenomena
+
+I use:
+- Satellite data and remote sensing
+- High-resolution climate models
+- Machine and deep learning
