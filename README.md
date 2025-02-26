@@ -21,7 +21,6 @@ I love all things weather and climate. Currently, I'm most interested in researc
 
 - Clouds and radiation
 - Climate extremes
-- Local weather and climate phenomena
 
 I work with large and unwieldy datasets and statistical and data science tools, namely:
 - Satellite data and remote sensing
