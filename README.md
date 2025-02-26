@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Mathilde Ritman, a climate physicist and PhD Reseracher at the University of Oxford. I work on:
+
+- High-resolution global climate models
+- Clouds and radiation
+- Climate extremes
+- Machine and deep learning.
